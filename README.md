@@ -3,6 +3,7 @@
 ## Description
 
 AutoCleanTempFiles.py is a Python script that helps you automatically clean temporary files from your Windows PC, freeing up disk space and improving system performance.
+[Download AutoCleanTempFiles.exe](https://github.com/Margitoh/AutoCleanTempFiles/blob/main/AutoCleanTempFiles.exe)
 
 ## Usage
 
